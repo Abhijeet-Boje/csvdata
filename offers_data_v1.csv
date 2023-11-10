@@ -1,0 +1,7 @@
+﻿n
+"(:ProductProcessorProductClassEvent {path: [""Flexcube"", ""CASA""],updatedBy: ""fyndnauser"",createdBy: ""fyndnauser"",updatedOn: ""2023-11-09T09:43:10.466765000Z"",id: ""b093a3e6-9653-4fa9-a76e-152cdcb26993"",createdOn: ""2023-11-09T09:43:10.466765000Z""})"
+"(:ProductProcessor {updatedBy: ""fyndnauser"",createdBy: ""fyndnauser"",name: ""Flexcube"",updatedOn: ""2023-11-09T09:42:53.059372000Z"",id: ""460e95c3-3f5b-48fd-8b05-b38e9fb4c47c"",createdOn: ""2023-11-09T09:42:53.059372000Z""})"
+"(:__Neo4jMigration {version: ""BASELINE""})"
+"(:__Neo4jMigration {repeatable: false,checksum: ""2065856473"",description: ""PRODUCT PROCESSOR NAME INDEX"",source: ""V010__PRODUCT_PROCESSOR_NAME_INDEX.cypher"",type: ""CYPHER"",version: ""010""})"
+"(:__Neo4jMigration {repeatable: false,checksum: ""2084285749"",description: ""BANK PRODUCT CLASS NAME INDEX"",source: ""V020__BANK_PRODUCT_CLASS_NAME_INDEX.cypher"",type: ""CYPHER"",version: ""020""})"
+"(:__Neo4jMigration {repeatable: false,checksum: ""1349315802"",description: ""HIERARCHY LEVEL NAME INDEX"",source: ""V030__HIERARCHY_LEVEL_NAME_INDEX.cypher"",type: ""CYPHER"",version: ""030""})"
